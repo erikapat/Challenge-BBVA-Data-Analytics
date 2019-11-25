@@ -21,8 +21,10 @@ The proposed questions are the following:
     model that would help us here?
 * Create an engine that, given an article, suggests the next one to read.
 * Suggest actions to take (as a DS) in order to:
+
         * maximize the number of readers
         * maximize the time spent on the site
         * maximize the number of CVs that we receive as a result of a post
+        
 * Suggest additional data that we should collect in order to measure and improve any
     of the above business objectives.
