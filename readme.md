@@ -1,9 +1,9 @@
 
 
-## **Challenge BBVA Data & Analytics**
+## **Challenge Data & Analytics**
 
 
-As you might know, we have a site (www.bbvadata.com) where, among other things, we
+As you might know, we have a site (www.xxxx.com) where, among other things, we
 share ideas in a blog format. In this challenge, we provide you with two datasets: the first
 one (blog_analytics.csv) is obtained from Google Analytics, and contains information such
 as number of visits, page information, averaged time spent on each page, and so on. The
